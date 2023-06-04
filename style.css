@@ -102,29 +102,7 @@ body {
 
 
 
- .menu {
-   
-
-   
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-end;
   
-   
-} 
-
- .menu .icon {
-    width: 3rem;
-   
-   
-}
-
-.menu .icon i{
-
-    font-size: 2rem;
-    right: 1rem;
-
-}  
 
 
 
